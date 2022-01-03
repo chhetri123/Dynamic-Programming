@@ -13,3 +13,6 @@
 
 ## what are the difference in these function in dynamic program?
 ![Screenshot 2022-01-01 185810](https://user-images.githubusercontent.com/65161301/147851436-2eefeb9a-fbe7-49eb-9bd5-f21822103cf2.png)
+
+## Implement canConstruct in tree
+![Screenshot 2022-01-02 214529](https://user-images.githubusercontent.com/65161301/147882603-b835e7ac-c987-4dc6-a65d-99734af815f4.png)
