@@ -16,3 +16,8 @@
 
 ## Implement canConstruct in tree
 ![Screenshot 2022-01-02 214529](https://user-images.githubusercontent.com/65161301/147882603-b835e7ac-c987-4dc6-a65d-99734af815f4.png)
+
+## Implement allConstruct in tree
+![Screenshot 2022-01-03 225435](https://user-images.githubusercontent.com/65161301/147962108-9ce83716-42d5-403f-b33c-59939c707e18.png)
+![Screenshot 2022-01-03 230018](https://user-images.githubusercontent.com/65161301/147962095-e466f510-949d-48e7-ac4e-e0312c4d0f25.png)
+
